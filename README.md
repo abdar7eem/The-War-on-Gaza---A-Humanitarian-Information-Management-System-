@@ -1,2 +1,7 @@
 # The-War-on-Gaza---A-Humanitarian-Information-Management-System-
-The project The War on Gaza - A Humanitarian Information Management System manages data about individuals and families affected by the war. It uses Java to organize information on martyrs, orphans, and survivors, enabling efficient data tracking and analysis. The system helps users add, update, and retrieve details about people and their families.
+
+The Java project titled The War on Gaza - A Humanitarian Information Management System aims to develop a system for managing and analyzing data related to individuals affected by the war in Gaza. It involves implementing a Java-based system to handle information about martyrs, orphans, survivors, and families. The project's primary purpose is to showcase the use of object-oriented programming (OOP) concepts, including classes, inheritance, and polymorphism.
+
+The system consists of multiple classes such as Person, Martyr, LivePerson, Family, and Manager, each representing different entities and functionalities. For instance, the Person class models a general individual, while Martyr and LivePerson are specialized classes derived from Person, demonstrating inheritance. The Family class manages family-related data, such as adding or removing members. The Manager class oversees system operations, including searching for individuals and calculating statistics on martyrs and orphans.
+
+Object-oriented concepts like inheritance allow the creation of specific entities (e.g., Martyr and LivePerson) from a more general Person class, while polymorphism enables the system to handle different object types uniformly. Encapsulation is demonstrated through the use of getter and setter methods to control access to class properties
