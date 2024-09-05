@@ -1,0 +1,2 @@
+# The-War-on-Gaza---A-Humanitarian-Information-Management-System-
+The project The War on Gaza - A Humanitarian Information Management System manages data about individuals and families affected by the war. It uses Java to organize information on martyrs, orphans, and survivors, enabling efficient data tracking and analysis. The system helps users add, update, and retrieve details about people and their families.
