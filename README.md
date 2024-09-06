@@ -1,4 +1,4 @@
-# The-War-on-Gaza---A-Humanitarian-Information-Management-System- PHASE II
+# The-War-on-Gaza---A-Humanitarian-Information-Management-System- 
 
 The Java project titled The War on Gaza - A Humanitarian Information Management System aims to develop a system for managing and analyzing data related to individuals affected by the war in Gaza. It involves implementing a Java-based system to handle information about martyrs, orphans, survivors, and families. The project's primary purpose is to showcase the use of object-oriented programming (OOP) concepts, including classes, inheritance, and polymorphism.
 
